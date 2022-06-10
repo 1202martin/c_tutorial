@@ -1,0 +1,4 @@
+6/10
+    - constants in C are values that cannot be changed as the software runs; it maintains the initial value it was given.
+        - common naming convention of having all capital letters in its name
+        e.g.) const float PI = 3.14159;
